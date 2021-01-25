@@ -14,7 +14,8 @@ public class IntegerDemo {
         //Integer i1 = new Integer(d);
         //Integer i2 = new Integer(d);
         /*
-            基本类型转换为包装类建议使用包装类的静态方法
+            基本类型转换为包装类建议使用包装类的静态方法valueOf
+            对于Integer而言，该方法会重用1字节之内正数的包装类对象
          */
 
         Integer i1 = Integer.valueOf(d);
