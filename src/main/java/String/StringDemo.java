@@ -19,7 +19,7 @@ public class StringDemo {
         System.out.println("123abc");
         System.out.println(s2==s3);//s2==s3为false，new很强制，一定创建新对象（不推荐）
 
-        //比较字符串类容要用equals!
+        //比较字符串内容要用equals!
         System.out.println(s2.equals(s3));//true,比较的事字符串对象的内容是否相同
 
         s1 = s2 + "!";//由于字符串时不变对象的，修改内容就会创建新的对象
