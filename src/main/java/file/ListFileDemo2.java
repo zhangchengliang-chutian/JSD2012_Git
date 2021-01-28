@@ -13,7 +13,7 @@ import java.io.FileFilter;
 public class ListFileDemo2 {
     public static void main(String[] args) {
         /*
-            获取当前目录中的所有名字中好有字母“e”的子项
+            获取当前目录中的所有名字中字母“e”的子项
          */
         File dir = new File(".");
         if(dir.isDirectory()){
