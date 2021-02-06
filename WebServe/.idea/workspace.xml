@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87735712-75ce-4eae-ba8c-1bd7d9d9ca86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20090724103859-91628664.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20090724103859-91628664_cp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSD2012_SE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dome.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fos_cp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../osw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../person.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raf.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/CharAtDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/IndexOfDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/MatchesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/SplitDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/StartsWithDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/StringBuilderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/StringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/SubstringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/ToUpperCaseDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/TrimDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/ValueOfDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/lengthDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/String/replaceAllDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/doc/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/exercise/Day04Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/exercise/Day04Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/exercise/Day04Test03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/exercise/Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/exercise/Test03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/file/CreateNewFileDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/file/DeleteDirDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/file/DeleteFileDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/file/FileDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/file/ListFileDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/file/ListFilesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/file/MkDirDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/file/MkDirsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/integer/IntegerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/integer/IntegerDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/integer/IntegerDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/io/FOSDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/lambda/LambdaDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/object/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/object/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/CopyDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/CopyDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/RAFDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/RAFDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/RAFDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/ReadStringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/RegDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/ShowAllUserDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/raf/WriteStringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/CharAtDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/IndexOfDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/MatchesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/SplitDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/StartsWithDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/StringBuilderDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/SubstringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/ToUpperCaseDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/TrimDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/ValueOfDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/lengthDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/String/replaceAllDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/ArrayToListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/CollectionDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/CollectionDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/CollectionDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/CollectionDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/CollectionDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/CollectionToArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/IteratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/ListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/ListDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/ListDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/NewForDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/collection/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day01/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day01/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day01/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day01/Test04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day01/Test05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day01/Test06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day02/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day02/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day02/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day02/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day02/Test04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day02/Test05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day03/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day03/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day03/Test03$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day03/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day03/Test04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day04/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day04/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day04/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/Test04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/Test05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/Test06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/Test07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/Test08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/Test09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day05/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Boo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Test01$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Test01$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Test02$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Test02$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Test03$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Test03$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day09/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day10/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day10/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day10/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day11/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day11/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day11/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/day11/Test04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/doc/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/AutocloseableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/ExceptionApiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/FinallyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/FinallyDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/IllegalAgeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/ThrowDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/ThrowsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exception/TryCatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exercise/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exercise/Server$ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/exercise/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/file/CreateNewFileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/file/DeleteDirDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/file/DeleteFileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/file/FileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/file/ListFileDemo2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/file/ListFileDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/file/ListFilesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/file/MkDirDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/file/MkDirsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/integer/IntegerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/integer/IntegerDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/integer/IntegerDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/BOS_flushDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/BRDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/CopyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/CopyDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/FISDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/FOSDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/ISRDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/OISDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/OOSDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/OSWDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/PWDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/PWDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/io/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/lambda/LambdaDemo1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/lambda/LambdaDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/object/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/object/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/CopyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/CopyDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/RAFDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/RAFDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/RAFDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/ReadStringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/RegDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/ShowAllUserDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/raf/WriteStringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/socket/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/socket/Client$ServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/socket/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/socket/Server$ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/socket/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/socket/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/Boo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/CurrentThreadDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/CurrentThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/DaemonThreadDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/DaemonThreadDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/DaemonThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/JoinDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/JoinDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/JoinDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/MyRunnable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/MyRunnable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/PriorityDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/PriorityDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/PriorityDemo$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/PriorityDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SleepDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SleepDemo2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SleepDemo2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SleepDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo3$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo4$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/SyncDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/ThreadDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/ThreadDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/ThreadDemo3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/ThreadDemo3$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/ThreadDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/thread/ThreadInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user.dat" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o6ZdohqzkEvMkdX8Dvsk36Ax3o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87735712-75ce-4eae-ba8c-1bd7d9d9ca86" name="Default Changelist" comment="" />
+      <created>1612609092338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612609092338</updated>
+      <workItem from="1612609093683" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
